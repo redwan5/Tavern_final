@@ -34,10 +34,10 @@ navBar.forEach(function(a){
             }
         }, step);
     }
-    counter("count1", 0, 350, 300);
-    counter("count2", 0, 287, 250);
-    counter("count3", 0, 70, 300);
-    counter("count3", 0, 20, 300);
+    counter("count1", 0, 350, 6000);
+    counter("count2", 0, 287, 5500);
+    counter("count3", 0, 70, 6000);
+    counter("count4", 0, 30, 6000);
     
  });
    
