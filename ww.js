@@ -36,7 +36,8 @@ navBar.forEach(function(a){
     }
     counter("count1", 0, 350, 300);
     counter("count2", 0, 287, 250);
-    counter("count3", 0, 70, 30);
+    counter("count3", 0, 70, 300);
+    counter("count3", 0, 20, 300);
     
  });
    
